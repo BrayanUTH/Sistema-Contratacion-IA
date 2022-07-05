@@ -61,7 +61,7 @@ def evaluarVacantes(arregloFiltros):
                 if arregloFiltros[1] <= yearsExperience.years:
                     arrayIdVacantes.append(item["id"])
 
-            if arregloFiltros[2] != "" and arregloFiltros[3] != "Remoto" and arregloFiltros[3] != "":
+            if arregloFiltros[2] != "" and arregloFiltros[3] != "Remoto":
                 if arregloFiltros[2].upper() == item["ciudad"].upper():
                     arrayIdVacantes.append(item["id"])
 
