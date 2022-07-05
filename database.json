@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "puesto_trabajo": "Desarrollador",
+        "modalidad_trabajo": "Remoto",
+        "fecha_inicio_experiencia": "14/8/2019",
+        "ciudad": "Tegucigalpa",
+        "skills": "java,javascript,c++,oracle,sql server,aws",
+        "nombre": "Armando",
+        "apellido": "Ortega",
+        "correo": "armandoortega@gmail.com",
+        "categoria": 7,
+        "estado": "Postulante"
+    },
+    {
+        "id": 2,
+        "puesto_trabajo": "Mecanico",
+        "modalidad_trabajo": "Presencial",
+        "fecha_inicio_experiencia": "16/3/2020",
+        "ciudad": "San Pedro Sula",
+        "skills": "electricidad automotriz,mecanica general, pintura",
+        "nombre": "Josue",
+        "apellido": "Benavidez",
+        "correo": "josuebenavidez@gmail.com",
+        "categoria": 17,
+        "estado": "Postulante"
+    },
+    {
+        "id": 3,
+        "puesto_trabajo": "Ingeniero Industrial",
+        "modalidad_trabajo": "Presencial",
+        "fecha_inicio_experiencia": "16/3/2021",
+        "ciudad": "La Ceiba",
+        "skills": "gestion de operaciones,gestion de calidad,logistica de distribucion",
+        "nombre": "Cristhian",
+        "apellido": "Archaga",
+        "correo": "archaga@gmail.com",
+        "categoria": 11,
+        "estado": "Postulante"
+    },
+    {
+        "id": 4,
+        "puesto_trabajo": "Ingeniero Industrial",
+        "modalidad_trabajo": "Presencial",
+        "fecha_inicio_experiencia": "16/3/2021",
+        "ciudad": "La Ceiba",
+        "skills": "gestion de operaciones,gestion de calidad,infraestructura",
+        "nombre": "Cristhian",
+        "apellido": "Archaga",
+        "correo": "archaga@gmail.com",
+        "categoria": 11,
+        "estado": "Postulante"
+    },
+    {
+        "id": 5,
+        "puesto_trabajo": "Marketing",
+        "modalidad_trabajo": "Presencial",
+        "fecha_inicio_experiencia": "25/3/2015",
+        "ciudad": "Tegucigalpa",
+        "skills": "marketing digital,marketing de pago,marketing de marca",
+        "nombre": "Alejandra",
+        "apellido": "Hernandez",
+        "correo": "alejandra_hernandez@gmail.com",
+        "categoria": 9,
+        "estado": "Postulante"
+    },
+    {
+        "id": 6,
+        "puesto_trabajo": "Desarrollador",
+        "modalidad_trabajo": "Presencial",
+        "fecha_inicio_experiencia": "16/6/2017",
+        "ciudad": "San Pedro Sula",
+        "skills": "node js,vue js,express js",
+        "nombre": "Jairo",
+        "apellido": "Alvarado",
+        "correo": "alvarado_jairo@gmail.com",
+        "categoria": 7,
+        "estado": "Postulante"
+    },
+    {
+        "id": 7,
+        "puesto_trabajo": "Desarrollador Movil",
+        "modalidad_trabajo": "Remoto",
+        "fecha_inicio_experiencia": "16/3/2014",
+        "ciudad": "Tegucigalpa",
+        "skills": "java,swift,flutter,mysql,aws",
+        "nombre": "Tatiana",
+        "apellido": "Aguilar",
+        "correo": "tatiana568@gmail.com",
+        "categoria": 7,
+        "estado": "Postulante"
+    }
+]
